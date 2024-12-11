@@ -14,7 +14,7 @@ class Person
         this.lastName = lastName;
         this.age = age;
     }
-    public String getFullName(){
+    public String getFullName(){ 
     return firstName + " " + lastName;
     }
     }
